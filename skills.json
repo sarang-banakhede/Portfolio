@@ -1,0 +1,39 @@
+[
+    {
+        "name": "python",
+        "icon": "assets\\images\\icon\\python.png"
+    },
+    {
+        "name": "MySQLs",
+        "icon": "assets\\images\\icon\\mysql.jpg"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "assets\\images\\icon\\tensorflow.png"
+    },
+    {
+        "name": "keras",
+        "icon": "assets\\images\\icon\\keras.png"
+    },
+    {
+        "name": "Sklearn",
+        "icon": "assets\\images\\icon\\sklearn.jpg"
+    },
+    {
+        "name": "pandas",
+        "icon": "assets\\images\\icon\\pandas.png"
+    },
+    {
+        "name": "numpy",
+        "icon": "assets\\images\\icon\\numpy.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "assets\\images\\icon\\matplotlib.png"
+    },
+    {
+        "name": "Seaborn",
+        "icon": "assets\\images\\icon\\seaborn.png"
+    }
+
+]
